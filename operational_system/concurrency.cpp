@@ -1,4 +1,4 @@
-// exemplo de concorrência
+// exemplo de concorrência with mutex
 
 #include <iostream>
 #include <thread>
